@@ -6,7 +6,7 @@
 
 # Referencias 
 Riesgos Laborales:
-
+Informacion
 [Organización Internacional del Trabajo (OIT)](https://www.ilo.org/)
 
 [Occupational Safety and Health Administration (OSHA)](https://www.osha.gov/)
@@ -16,6 +16,10 @@ Riesgos Laborales:
 [National Institute for Occupational Safety and Health (NIOSH)](https://www.cdc.gov/niosh/)
 
 [European Agency for Safety and Health at Work (EU-OSHA)](https://osha.europa.eu/)
+
+Prevencion de riesgos:
+* Información: Consulta de CHATGPT
+* Imagen: 
 
 # Autores
 * [**César Gómez Gómez**](https://github.com/CGoGomez)
