@@ -5,6 +5,11 @@
 ## [Prevencion de riesgos desde un punto de vista informático](PrevencionRiesgos.md)
 
 # Referencias 
+[Organización Internacional del Trabajo (OIT)](https://www.ilo.org/)
+[Occupational Safety and Health Administration (OSHA)](https://www.osha.gov/)
+[World Health Organization (WHO) - Occupational Health](https://www.who.int/occupational_health/en/)
+[National Institute for Occupational Safety and Health (NIOSH)](https://www.cdc.gov/niosh/)
+[European Agency for Safety and Health at Work (EU-OSHA)](https://osha.europa.eu/)
 
 # Autores
 * [**César Gómez Gómez**](https://github.com/CGoGomez)
