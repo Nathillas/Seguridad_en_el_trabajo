@@ -6,7 +6,7 @@
  
  Vibraciones: Pueden afectar negativamente los músculos y articulaciones.
  
- Temperaturas Extremas: Calor o frío extremos pueden causar problemas de salud.
+ **Temperaturas Extremas:** Calor o frío extremos pueden causar problemas de salud.
    
 ## Riesgos Químicos:
 Exposición a Sustancias Peligrosas: Puede ocurrir por inhalación, contacto cutáneo o ingestión.
