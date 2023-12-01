@@ -7,8 +7,8 @@
 # Referencias 
 
 # Autores
-* **César Gómez Gómez** [GitHub](https://github.com/CGoGomez)
-* **Salvador Peña Barco** [GitHub](https://github.com/salvaa05)
-* **Natalia Barrera Aguilera** [GitHub](https://github.com/Nathillas)
+* [**César Gómez Gómez**](https://github.com/CGoGomez)
+* [**Salvador Peña Barco**](https://github.com/salvaa05)
+* [**Natalia Barrera Aguilera**](https://github.com/Nathillas)
 
 # Licencias 
