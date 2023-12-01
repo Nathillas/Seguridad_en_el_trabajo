@@ -1,12 +1,14 @@
 # Prevención de Riesgos Laborales
 
+![/img/Prevencion.png]
+
 Atención, atención; la informática aunque no lo parezca tiene sus propias reglas de prevención de **Riesgos Laborales**, un conjunto de normas a seguir si no se quiere pasar un mal rato o peor. La informática al igual que es tu amiga, 
 puede llegar a ser un rival bastante digno y causar algunos problemas a la hora de desempeñar tu trabajo.
 
 A continuación tendrás un grupo de indicaciones a seguir para no tener ningún incidente cuando trabajes en un entorno informático:
-* **Políticas de seguridad**: Establecer y comunicar políticas de seguridad claras que aborden el uso adecuado de los recursos informáticos, contraseñas seguras, y la responsabilidad de los empleados en la protección de datos.
+* **Políticas de seguridad**: Establecer y comunicar políticas de seguridad claras que aborden el uso adecuado de los recursos informáticos, contraseñas seguras, y la responsabilidad de los empleados en la protección de datos. De todo un poco, algo que todos los miembros de un grupo de trabajo han de tener en cuenta; sin las políticas de seguridad no hay nada que se pueda hacer, recordad tener la responsabilidad y no ser un necio en el trabajo
 
-* **Formación y concienciación**: Proporcionar capacitación regular sobre seguridad informática para los empleados, incluyendo prácticas seguras, identificación de amenazas, y procedimientos de respuesta a incidentes.
+* **Formación y concienciación**: Proporcionar capacitación regular sobre seguridad informática para los empleados, incluyendo prácticas seguras, identificación de amenazas, y procedimientos de respuesta a incidentes. De principio a fin, concienciar a todos
 
 * **Contraseñas seguras**: Requerir contraseñas robustas que incluyan combinaciones de letras, números y caracteres especiales. Fomentar la actualización regular de contraseñas y el uso de autenticación de dos factores.
 
