@@ -1,6 +1,6 @@
 # Prevención de Riesgos Laborales
 
-![/img/Prevencion.png]
+![Danger, Danger! High Voltage](/img/prevencion.png)
 
 Atención, atención; la informática aunque no lo parezca tiene sus propias reglas de prevención de **Riesgos Laborales**, un conjunto de normas a seguir si no se quiere pasar un mal rato o peor. La informática al igual que es tu amiga, 
 puede llegar a ser un rival bastante digno y causar algunos problemas a la hora de desempeñar tu trabajo.
