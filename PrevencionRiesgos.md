@@ -15,11 +15,11 @@ A continuación tendrás un grupo de indicaciones a seguir para no tener ningún
 
 * **Gestión de accesos**: Limitar el acceso a sistemas y datos solo a aquellos empleados que lo necesitan para realizar sus funciones. Revisar y actualizar los permisos de acceso de forma regular. ¿Alguien no debería acceder al archivo, carpeta o sistema? Tan sencillo como limitarlo a aquellos que vayan a tener más privilegios que otros, asegurate de limitarlo como ebe ser y no autolimitar demasiado hasta el punto que ni uno mismo puede ser el que lo maneje.
 
-* **Actualizaciones y parches**: Mantener todos los sistemas operativos y software actualizados con los últimos parches de seguridad para evitar vulnerabilidades.
+* **Actualizaciones y parches**: Mantener todos los sistemas operativos y software actualizados con los últimos parches de seguridad para evitar vulnerabilidades. Las actualizaciones de Sistema no han de ser siempre constantes, pero si  han otorgado un parche o actualización importante; ahí entonces es muy recomendable aplicar dicha actualización o parche, puede ayudar a que el sitema esté perfectamente protegido.
 
-* **Antivirus y anti-malware**: Instalar software antivirus y antimalware en todos los dispositivos para detectar y eliminar posibles amenazas.
+* **Antivirus y anti-malware**: Instalar software antivirus y antimalware en todos los dispositivos para detectar y eliminar posibles amenazas. Ojo Cuidao' con esto, los antivirus y anti-malware, son importantes pero has de tener mucho cuidado porque pueden llegar a ralentizar el sistema, una ralentización prolongada puede llegar a tener consecuencias; más que nada en el propio sistema o algún componente, lo mismo que podría pasar también si no está protegido... solo que más rápido
 
-* **Copia de seguridad de datos**: Realizar copias de seguridad periódicas de datos críticos y almacenarlas en ubicaciones seguras. Garantizar la capacidad de recuperación en caso de pérdida de datos.
+* **Copia de seguridad de datos**: Realizar copias de seguridad periódicas de datos críticos y almacenarlas en ubicaciones seguras. Garantizar la capacidad de recuperación en caso de pérdida de datos. En la nube o en un disco externo... o en ambos; la idea es no perder del tirón todos los datos que se tengan, en cuantos más lugares se tengan dichas copias será mucho mejor.
 
 * **Control de dispositivos extraíbles**: Limitar o controlar el uso de dispositivos de almacenamiento extraíbles para prevenir la introducción de malware desde unidades USB u otros dispositivos.
 
