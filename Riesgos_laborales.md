@@ -1,5 +1,5 @@
 # RIESGOS LABORALES
-
+![Riesgos laborales](/img/gecosa-prevencion-riesgos.jpg)
 
 ## Riegos Fisicos:
  Ruido: Exposición a niveles elevados de ruido puede causar daño auditivo.
