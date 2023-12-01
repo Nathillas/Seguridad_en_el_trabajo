@@ -1,6 +1,7 @@
 # Prevención de Riesgos Laborales
 
 ![Danger, Danger! High Voltage](/img/Prevencion.png)
+> "No seas el que arregla las cosas a golpes" - *Algún informático... seguramente*
 
 Atención, atención; la informática aunque no lo parezca tiene sus propias reglas de prevención de **Riesgos Laborales**, un conjunto de normas a seguir si no se quiere pasar un mal rato o peor. La informática al igual que es tu amiga, 
 puede llegar a ser un rival bastante digno y causar algunos problemas a la hora de desempeñar tu trabajo.
@@ -8,11 +9,11 @@ puede llegar a ser un rival bastante digno y causar algunos problemas a la hora 
 A continuación tendrás un grupo de indicaciones a seguir para no tener ningún incidente cuando trabajes en un entorno informático:
 * **Políticas de seguridad**: Establecer y comunicar políticas de seguridad claras que aborden el uso adecuado de los recursos informáticos, contraseñas seguras, y la responsabilidad de los empleados en la protección de datos. De todo un poco, algo que todos los miembros de un grupo de trabajo han de tener en cuenta; sin las políticas de seguridad no hay nada que se pueda hacer, recordad tener la responsabilidad y no ser un necio en el trabajo
 
-* **Formación y concienciación**: Proporcionar capacitación regular sobre seguridad informática para los empleados, incluyendo prácticas seguras, identificación de amenazas, y procedimientos de respuesta a incidentes. De principio a fin, concienciar a todos
+* **Formación y concienciación**: Proporcionar capacitación regular sobre seguridad informática para los empleados, incluyendo prácticas seguras, identificación de amenazas, y procedimientos de respuesta a incidentes. De principio a fin, concienciar a todos sobre estos riesgos y que medidas hay que tomar, eso es imperativo y 100% necesario para que todos estén seguros.
 
-* **Contraseñas seguras**: Requerir contraseñas robustas que incluyan combinaciones de letras, números y caracteres especiales. Fomentar la actualización regular de contraseñas y el uso de autenticación de dos factores.
+* **Contraseñas seguras**: Requerir contraseñas robustas que incluyan combinaciones de letras, números y caracteres especiales. Fomentar la actualización regular de contraseñas y el uso de autenticación de dos factores. Recuerda que cuanto más difícil sea leerlo, no entrarán con facilidad al sistema que tienes; se impredecible por completo, que el texto que hayas introducido sea ta impredecible como una jugada de cualquier juego de azar.
 
-* **Gestión de accesos**: Limitar el acceso a sistemas y datos solo a aquellos empleados que lo necesitan para realizar sus funciones. Revisar y actualizar los permisos de acceso de forma regular.
+* **Gestión de accesos**: Limitar el acceso a sistemas y datos solo a aquellos empleados que lo necesitan para realizar sus funciones. Revisar y actualizar los permisos de acceso de forma regular. ¿Alguien no debería acceder al archivo, carpeta o sistema? Tan sencillo como limitarlo a aquellos que vayan a tener más privilegios que otros, asegurate de limitarlo como ebe ser y no autolimitar demasiado hasta el punto que ni uno mismo puede ser el que lo maneje.
 
 * **Actualizaciones y parches**: Mantener todos los sistemas operativos y software actualizados con los últimos parches de seguridad para evitar vulnerabilidades.
 
